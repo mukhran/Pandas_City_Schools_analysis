@@ -5,3 +5,4 @@ A School and standardized test data were analyzed by creating and manipulating P
 
 - To create a School summary, the necessary calculations were performed and then a DataFrame, that summarizes key metrics about each school, was creted.
 
+<img width="1010" alt="Screenshot 2023-04-23 at 5 22 47 PM" src="https://user-images.githubusercontent.com/30066145/233875792-58df931b-9d8d-461b-9dd3-fd4f04c62963.png">
