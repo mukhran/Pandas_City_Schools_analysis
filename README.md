@@ -19,7 +19,7 @@ A School and standardized test data were analyzed by creating and manipulating P
 <img width="734" alt="Screenshot 2023-04-23 at 5 41 40 PM" src="https://user-images.githubusercontent.com/30066145/233876275-ba511b73-aaea-44e3-b0fb-df30b8d976c8.png">
 
 ## Conclusions
-- Small (<1000) and medium (1000-2000) schools showed better performance then large(2000 -5000)school with an Overall passing persentage 89.8-90.6% vs 58.2%.
+- Small (<1000) and medium (1000-2000) schools showed better performance than large(2000 -5000)school with an Overall passing persentage 89.8-90.6% vs 58.2%.
 - Budget spending per student doesn’t guarantee passing (>70) and high test results. Despite having higher spending per student than smaller and medium sized, large schools have lower test results.
 - District schools have lower test results across all metrics than Charter schools.
 - Large-sized public schools have the lowest test results in Math.
